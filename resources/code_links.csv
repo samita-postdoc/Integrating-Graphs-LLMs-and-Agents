@@ -1,1 +1,22 @@
+BibTeX_Key	Title	Year	Category	Repository	Code_Status	Notes
+Wang2024Voyager	Voyager: An Open-Ended Embodied Agent with Large Language Models	2024	Graph-Agent-LLM / Agentic AI	https://github.com/MineDojo/Voyager	Official/project repository	Voyager code
+wu2023autogenenablingnextgenllm	AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation	2023	Graph-Agent-LLM / Agentic AI	https://github.com/microsoft/autogen	Official/project repository	AutoGen framework
+park2023generativeagents	Generative Agents: Interactive Simulacra of Human Behavior	2023	Graph-Agent-LLM / Agentic AI	https://github.com/joonspk-research/generative_agents	Official/project repository	Generative Agents code
+shinn2023reflexion	Reflexion: Language Agents with Verbal Reinforcement Learning	2023	Graph-Agent-LLM / Agentic AI	https://github.com/noahshinn024/reflexion	Official/project repository	Reflexion code
+edge2024graphrag	From Local to Global: A Graph RAG Approach to Query-Focused Summarization	2025	GraphRAG / Retrieval-Augmented Generation	https://github.com/microsoft/graphrag	Official/project repository	Microsoft GraphRAG implementation
+mavromatis2025gnn	GNN-RAG: Graph neural retrieval for efficient large language model reasoning on knowledge graphs	2025	GraphRAG / Retrieval-Augmented Generation	https://github.com/cmavro/GNN-RAG	Official/project repository	GNN-RAG code
+edge2024graphrag	From Local to Global: A Graph RAG Approach to Query-Focused Summarization	2024	GraphRAG / Retrieval-Augmented Generation	https://github.com/microsoft/graphrag	Official/project repository	Microsoft GraphRAG implementation
+he2024gretriever	G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering	2024	GraphRAG / Retrieval-Augmented Generation	https://github.com/XiaoxinHe/G-Retriever	Official/project repository	G-Retriever code
+mavromatis2024gnn	Gnn-rag: Graph neural retrieval for large language model reasoning	2024	GraphRAG / Retrieval-Augmented Generation	https://github.com/cmavro/GNN-RAG	Official/project repository	GNN-RAG code
+es2024ragas	RAGAS: Automated Evaluation of Retrieval Augmented Generation	2024	GraphRAG / Retrieval-Augmented Generation	https://github.com/explodinggradients/ragas	Official/project repository	RAGAS evaluation framework
+kipf2016semi	Semi-supervised classification with graph convolutional networks	2016	Hybrid GNN-LLM / Graph Learning	https://github.com/tkipf/gcn	Official/project repository	GCN code
+besta2024graphofthoughts	Graph of Thoughts: Solving Elaborate Problems with Large Language Models	2024	Large Language Models / Foundation Models	https://github.com/spcl/graph-of-thoughts	Official/project repository	Graph of Thoughts code
+tang2024graphgpt	Graphgpt: Graph instruction tuning for large language models	2024	Large Language Models / Foundation Models	https://github.com/HKUDS/GraphGPT	Official/project repository	GraphGPT code
+tang2024graphgpt	GraphGPT: Graph Instruction Tuning for Large Language Models	2024	Large Language Models / Foundation Models	https://github.com/HKUDS/GraphGPT	Official/project repository	GraphGPT code
+packer2023memgpt	MemGPT: Towards LLMs as Operating Systems	2023	Large Language Models / Foundation Models	https://github.com/letta-ai/letta	Official/project repository	MemGPT/Letta codebase
+yao2023react	ReAct: Synergizing Reasoning and Acting in Language Models	2023	Large Language Models / Foundation Models	https://github.com/ysymyth/ReAct	Official/project repository	ReAct code
+manakul2023selfcheckgpt	SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models	2023	Large Language Models / Foundation Models	https://github.com/potsawee/selfcheckgpt	Official/project repository	SelfCheckGPT code
+chen2024llaga	Llaga: Large language and graph assistant	2024	Other / Background	https://github.com/VITA-Group/LLaGA	Official/project repository	LLaGA code
+chen2024llaga	LLaGA: Large Language and Graph Assistant	2024	Other / Background	https://github.com/VITA-Group/LLaGA	Official/project repository	LLaGA code
+hamilton2017inductive	Inductive representation learning on large graphs	2017	Other / Background	https://github.com/williamleif/GraphSAGE	Official/project repository	GraphSAGE code
 
