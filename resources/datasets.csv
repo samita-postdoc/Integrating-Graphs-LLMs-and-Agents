@@ -1,0 +1,47 @@
+Dataset	Domain	Category	Typical_Use	Notes	URL
+FB15k-237	Knowledge Graph	KG reasoning / link prediction	Knowledge graph completion, link prediction, KG-enhanced reasoning	Filtered Freebase subset commonly used for relation prediction.	https://paperswithcode.com/dataset/fb15k-237
+WN18RR	Knowledge Graph	KG reasoning / link prediction	Knowledge graph completion and relational reasoning	WordNet-based benchmark with inverse-relation leakage reduced.	https://paperswithcode.com/dataset/wn18rr
+YAGO3-10	Knowledge Graph	KG reasoning / link prediction	Entity and relation prediction over large knowledge graphs	YAGO-based benchmark frequently used for KG embedding evaluation.	https://paperswithcode.com/dataset/yago3-10
+NELL-995	Knowledge Graph	KG reasoning	Multi-hop reasoning and path-based KG inference	Knowledge graph derived from the Never-Ending Language Learning project.	https://paperswithcode.com/dataset/nell-995
+ConceptNet	Commonsense Knowledge Graph	Commonsense reasoning	Commonsense graph reasoning and knowledge-enhanced language understanding	Large multilingual commonsense knowledge graph.	https://conceptnet.io/
+Wikidata	Knowledge Graph	Open-domain KG	Entity-centric reasoning, retrieval, KGQA, and knowledge grounding	Collaborative open knowledge base used in many KG and LLM studies.	https://www.wikidata.org/
+DBpedia	Knowledge Graph	Open-domain KG	Semantic search, KGQA, entity linking, and open-domain reasoning	Structured knowledge extracted from Wikipedia.	https://www.dbpedia.org/
+WebQuestionsSP (WebQSP)	Question Answering	KGQA	Question answering over Freebase	Semantic parsing dataset for knowledge-base question answering.	https://paperswithcode.com/dataset/webquestionssp
+ComplexWebQuestions (CWQ)	Question Answering	Complex KGQA	Multi-hop and compositional question answering over Freebase	Designed for complex questions requiring compositional reasoning.	https://paperswithcode.com/dataset/complexwebquestions
+MetaQA	Question Answering	Multi-hop KGQA	1-hop, 2-hop, and 3-hop question answering over movie KGs	Common benchmark for evaluating multi-hop KGQA.	https://paperswithcode.com/dataset/metaqa
+LC-QuAD 1.0	Question Answering	KGQA	Question answering over DBpedia	Large-scale complex question answering dataset.	https://github.com/AskNowQA/LC-QuAD
+LC-QuAD 2.0	Question Answering	KGQA	Question answering over Wikidata and DBpedia	Extended complex question answering benchmark.	https://github.com/AskNowQA/LC-QuAD2.0
+QALD	Question Answering	KGQA	Multilingual and semantic question answering over linked data	Benchmark series for question answering over linked data.	https://www.nliwod.org/challenge
+KQA Pro	Question Answering	Complex KGQA	Complex question answering with executable logical forms	Large-scale dataset for compositional KG reasoning.	https://github.com/shijx12/KQAPro_Baselines
+Open Graph Benchmark (OGB)	Graph Learning	GNN benchmark	Node classification, link prediction, and graph classification	Standard benchmark suite for graph machine learning.	https://ogb.stanford.edu/
+Cora	Citation Network	Node classification	Graph neural network evaluation	Classic citation-network dataset.	https://paperswithcode.com/dataset/cora
+Citeseer	Citation Network	Node classification	Graph neural network evaluation	Classic citation-network benchmark.	https://paperswithcode.com/dataset/citeseer
+PubMed	Citation Network	Node classification	Graph neural network evaluation	Citation network used for semi-supervised node classification.	https://paperswithcode.com/dataset/pubmed
+ogbn-arxiv	Citation Network	Node classification	Large-scale node classification	OGB benchmark based on arXiv citation graph.	https://ogb.stanford.edu/docs/nodeprop/#ogbn-arxiv
+ogbl-collab	Collaboration Network	Link prediction	Large-scale link prediction	OGB benchmark for author collaboration prediction.	https://ogb.stanford.edu/docs/linkprop/#ogbl-collab
+MUTAG	Molecular Graphs	Graph classification	Graph classification and molecular property prediction	Classic small graph classification benchmark.	https://paperswithcode.com/dataset/mutag
+PROTEINS	Bioinformatics	Graph classification	Graph classification for protein structures	Common benchmark from TUDataset.	https://chrsmrrs.github.io/datasets/docs/datasets/
+DD	Bioinformatics	Graph classification	Protein graph classification	Large graph classification dataset from TUDataset.	https://chrsmrrs.github.io/datasets/docs/datasets/
+Visual Genome	Vision-Language	Scene graph / visual relationship	Scene graph generation, visual grounding, vision-language reasoning	Large-scale dataset with objects, attributes, relationships, and region descriptions.	https://visualgenome.org/
+MS COCO	Vision-Language	Image captioning / detection	Image captioning, object detection, multimodal reasoning	Widely used image dataset for vision-language tasks.	https://cocodataset.org/
+Flickr30k	Vision-Language	Image-caption retrieval	Image-text retrieval and multimodal alignment	Images paired with multiple human-written captions.	https://shannon.cs.illinois.edu/DenotationGraph/
+GQA	Vision-Language	Visual question answering	Compositional visual reasoning using scene graphs	VQA dataset designed around structured scene representations.	https://cs.stanford.edu/people/dorarad/gqa/
+VQA v2	Vision-Language	Visual question answering	Visual question answering and multimodal reasoning	Balanced VQA benchmark.	https://visualqa.org/
+RefCOCO	Vision-Language	Referring expression comprehension	Grounding language expressions in images	Dataset family for referring expression grounding.	https://paperswithcode.com/dataset/refcoco
+Open Images	Computer Vision	Object detection / visual relationships	Object detection, relationships, and large-scale visual recognition	Large-scale image annotations including object relationships.	https://storage.googleapis.com/openimages/web/index.html
+HotpotQA	Question Answering	Multi-hop QA	Multi-hop retrieval and reasoning	Benchmark requiring reasoning over multiple Wikipedia passages.	https://hotpotqa.github.io/
+Natural Questions	Question Answering	Open-domain QA	Retrieval-augmented QA and open-domain question answering	Google dataset based on real user queries.	https://ai.google.com/research/NaturalQuestions
+TriviaQA	Question Answering	Open-domain QA	Retrieval-augmented question answering	Large-scale reading comprehension and QA dataset.	https://nlp.cs.washington.edu/triviaqa/
+MS MARCO	Information Retrieval	Retrieval / passage ranking	Dense retrieval, reranking, and RAG evaluation	Large-scale Microsoft dataset for machine reading comprehension and ranking.	https://microsoft.github.io/msmarco/
+BEIR	Information Retrieval	Retrieval benchmark suite	Zero-shot retrieval and RAG retrieval evaluation	Benchmark collection for information retrieval evaluation.	https://github.com/beir-cellar/beir
+CodeSearchNet	Software Engineering	Code retrieval / code understanding	Code search, code-text alignment, and program understanding	Dataset for semantic code search across multiple programming languages.	https://github.com/github/CodeSearchNet
+Devign	Software Engineering	Vulnerability detection	Graph-based vulnerability detection and code analysis	Dataset for vulnerability identification using code representations.	https://github.com/epicosy/devign
+BigCloneBench	Software Engineering	Code clone detection	Program analysis and clone detection	Benchmark for detecting semantic code clones.	https://github.com/clonebench/BigCloneBench
+MovieLens	Recommendation Systems	User-item interaction graph	Recommendation, collaborative filtering, graph-enhanced recommendation	Widely used recommendation benchmark.	https://grouplens.org/datasets/movielens/
+Amazon Reviews	Recommendation Systems	User-item interaction graph	Recommendation, product graphs, review-aware reasoning	Large-scale product review datasets.	https://nijianmo.github.io/amazon/index.html
+Yelp Open Dataset	Recommendation Systems	User-business interaction graph	Recommendation, review mining, graph-based user-item modeling	Business, review, and user interaction data.	https://www.yelp.com/dataset
+LastFM	Recommendation Systems	User-item interaction graph	Music recommendation and graph-based recommendation	Common dataset for recommendation research.	https://grouplens.org/datasets/hetrec-2011/
+UMLS	Biomedical Knowledge	Medical knowledge graph / terminology	Clinical reasoning, entity linking, biomedical KG construction	Unified Medical Language System for biomedical vocabularies.	https://www.nlm.nih.gov/research/umls/index.html
+MIMIC-III	Healthcare	Clinical records	Clinical NLP, EMR reasoning, medical decision support	De-identified critical care database.	https://physionet.org/content/mimiciii/1.4/
+MIMIC-IV	Healthcare	Clinical records	Clinical NLP, EMR reasoning, medical decision support	Updated de-identified critical care database.	https://physionet.org/content/mimiciv/
+DrugBank	Biomedical Knowledge	Drug knowledge graph	Drug-drug interaction reasoning and biomedical KG applications	Drug, target, pathway, and interaction database.	https://go.drugbank.com/
